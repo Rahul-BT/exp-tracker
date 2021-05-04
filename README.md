@@ -34,3 +34,21 @@ This file has data recorded for almost all my expenses for the period 2017 to 20
 
 
 * Type Id: Not Used.
+
+### Insights
+#### Expense trend
+![Expense trends](screenshots/expense_trend.PNG)
+This plot shows the expense amount and no of transactions for the period 2017 and 2020.
+
+#### Expense vs Month
+![Monthly expenses](screenshots/exp_month.PNG)
+This plot shows the monthly expenses from 2017 to 2020. The monthly expenses was the highest during October while it was lowest during May. The no of transactions is also shown (blue line) - highest in January and lowest in April
+
+#### Payment Methods
+![Payment methods](screenshots/payment_methods.PNG)
+
+This pie chart shows my preferred payment methods. Credit cards followed by digital wallets are my favourite payment methods. Cash payment is used for less than 13% of the transactions.
+
+#### Spending Trends
+![Spending trends](screenshots/spending_trend.PNG)
+This plot shows the spending trends based on the amount and no of transactions.
